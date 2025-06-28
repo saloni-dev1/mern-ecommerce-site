@@ -2,6 +2,7 @@
 A full-featured e-commerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that supports product browsing, filtering, variant selection, shopping cart, checkout with online payments (Stripe), and a full admin dashboard for managing products and orders.
 
 📌 Features
+
 🛍️ User Panel
 Browse all products
 
